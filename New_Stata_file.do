@@ -11,3 +11,6 @@ version 14.2
 
 display in red "Hello world"
 display as error "Why did you do that?"
+
+
+both
